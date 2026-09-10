@@ -5,7 +5,7 @@ class murali{
     }
 }
 class sharath extends murali{
-    void method(){;
+    void method(){
         int b=10;
         System.out.println("mulplication of two numbers="+(a*b));
     }
